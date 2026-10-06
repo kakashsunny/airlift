@@ -1,0 +1,6 @@
+{
+  "name": "Project AeroLift — 5m Electric Human-Lift Multirotor",
+  "description": "Low-altitude electric human-lift 12-rotor coaxial research platform engineering portfolio, real-time 3D model, failure simulator, and technical specifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
